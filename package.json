@@ -1,7 +1,14 @@
 {
-  "name": "my-package",
+  "name": "app01",
   "scripts": {
     "build": "babel src -d lib",
     "test": "jest"
-  }
+  },
+  "version": "1",
+  "description": "peque",
+  "main": "8",
+  "repository": "1",
+  "author": "1",
+  "license": "1",
+  "private": false
 }
